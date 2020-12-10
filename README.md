@@ -43,19 +43,26 @@ All my free time I enjoy building my own "smart home" with trendy technologies (
         <tr>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  </td>
             <td><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/phoenix.svg" alt="Phoenix Framework" height="50" width="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  </td>
         </tr>
         <tr>
-            <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/natsio/natsio-icon.svg" alt="Nats" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  </td>
+        </tr>
+        <tr>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" />  </td>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  </td>
-            <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="Jaeger" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/opentracingio/opentracingio-icon.svg" alt="Opentracing" height="50" />  </td>
         </tr>
         <tr>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  </td>
@@ -68,8 +75,7 @@ All my free time I enjoy building my own "smart home" with trendy technologies (
         </tr>
         <tr>
             <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  </td>
-            <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  </td>
-            <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  </td>
+            <td><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nerves-project/nerves-project-icon.svg" alt="Nerves" height="50" />  </td>
         </tr>
     </tbody>
 </table>
